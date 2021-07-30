@@ -42,8 +42,9 @@
 @*<partial name="Projects"/>*@
 @*@await Html.PartialAsync("Projects")*@
 @await Component.InvokeAsync("Project")
-@await Component.InvokeAsync("Article")
+
 <div class="container">
     <hr>
 </div>
+@await Component.InvokeAsync("Article")
 
