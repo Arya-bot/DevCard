@@ -24,7 +24,6 @@ C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\D
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.TagHelpers.output.cache
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.RazorCoreGenerate.cache
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\r
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.genruntimeconfig.cache
 C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.CopyComplete
+C:\Users\Arya\Desktop\Atrya\03-Mvc part2\Project2\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
